@@ -1,0 +1,15 @@
+button {
+    background-color: #052afc; /* red */
+    color: rgb(8, 5, 240); /* blac */
+    padding: 15px 32px; /* 10 */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+button {
+    background-color: #d1ff03; /* لون خلفية الزر */
+    color: rgb(168, 231, 22); /* لون النص */
+}
